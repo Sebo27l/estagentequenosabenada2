@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define VERSION_ACTUAL 2 
+#define VERSION_ACTUAL 1
 
 int main(void)
 {
